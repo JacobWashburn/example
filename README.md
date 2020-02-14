@@ -1,2 +1,5 @@
 # example
-just something 
+
+just something
+
+# First commit for git merge conflict practice
